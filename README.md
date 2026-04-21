@@ -53,20 +53,6 @@ ENVIAR PULL REQUESTS:
 4. Push a la rama
 5. Abrir Pull Request con descripción detallada
 
-================================================================================
-CONTACTO Y RECURSOS ADICIONALES
-================================================================================
-
-REPOSITORIO OFICIAL:
-GitHub: https://github.com/yourusername/capabilities-poc
-
-REPORTAR VULNERABILIDADES:
-Email: security@example.com
-PGP Key: [Opcional]
-
-SIGUENOS EN:
-Twitter: @securitypoc
-LinkedIn: Security Research Group
 
 ================================================================================
 VERSIONES Y CAMBIOS
